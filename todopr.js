@@ -24,6 +24,7 @@ delatebtn.addEventListener('click',function(event){
   
 });
 
+
 };
 const delatesuru = function(delatebtn){
     const getchild = delatebtn.closest('li');
